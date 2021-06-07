@@ -18,5 +18,5 @@ myObject.func();
 // function can be accessed from the inner function but we cannot access the inner values in the outer
 // function. since we have just declared the in the outer function the code is able to use the value in 
 // the outer function,with using this the function will be able to execute and the output will be the name
-// that is in the first function.
+// that is in the first function.And also promises,there is an idear of peomise.
 
